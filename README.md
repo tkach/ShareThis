@@ -68,3 +68,6 @@ Remember that to use Pocket and Readability, you must pass in the api key when s
 [ShareThis showShareOptionsToShareUrl:title:image:onViewController:forTypeOfContent:];
 ```
 STContentTypeArticle will include the read later services while STContentTypeVideo will not.
+
+#License
+ShareThis is available under the MIT license. See the LICENSE file for more info.
